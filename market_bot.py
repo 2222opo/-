@@ -37,7 +37,7 @@ logging.basicConfig(
 ITEM_LIST_FILE = "data.dat"
 CACHE_FILE = "item_cache.json"
 
-if not DISCORD_TOKEN:
+if not DISCORD_TOKEN:MTM0NzQxOTEzNTE2Nzk1NDk3NA.Gf-Lw6.gYP659FztJsqDPwOVhCqOFMcoomHp098NNpNTk
     raise ValueError("디스코드 봇 토큰이 환경 변수에 설정되지 않았습니다.")
 
 UNIVERSALIS_API_BASE = "https://universalis.app/api/v2"
